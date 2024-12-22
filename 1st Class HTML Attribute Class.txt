@@ -1,0 +1,41 @@
+Attribute ?
+
+~ Additional Information 
+
+List of Attribute in HTML .
+
+title
+
+<hr> Tag Attributes
+	~width		[ %, px ]
+	~Size		[ in number ]
+	~Color		[ name , hexadecimal ]
+	~align		[ center, left , Right ]
+
+
+
+<marquee> Tag Attributes
+	~direction	[ left,right,up and down]
+	~behavior 	[ scroll,slide,alternate]
+        ~scrollamount 	[ in number ]
+	~bgcolor 	[ red,yellow]
+
+<body> Tag Attributes
+	~bgcolor	[ Color_Name, hex codes , RGB ]
+	~text		[ Color_Name, Hex Codes, RGB  ]
+
+
+Example:-
+
+<h1>It Computer Studies</h1> This is without Attribute.
+<h1 align="center">It Computer Studies</h1> This is with Attribute.
+<marquee direction="left"> Thank you</marquee>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+Intermediate Level 
+
+2nd Class of HTML
+
+------------------------
+OL Means  Order List 
+
+<ol> 
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+</ol>
+-----------Attribute of OL Tag-------------------
+
+1) Type 
+   ~"1"
+   ~"a"
+   ~"A"
+   ~"i"
+   ~"I"
+
+2) Start 
+   ~Number
+
+3) Reversed
+
+|-----------------Unordered List ----------------------|
+
+UL Tag
+
+
+---------Attribute of UL Tag ---------------------|
+
+1) Type
+    ~"Disc"
+    ~"Circle"
+    ~"Square"
+
+
+
